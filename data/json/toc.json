@@ -1,0 +1,47 @@
+[
+  {
+    "title": "首页内容",
+    "slug": "qp74zh",
+    "depth": 1
+  },
+  {
+    "title": "附件测试",
+    "slug": "qgd4yv",
+    "depth": 1
+  },
+  {
+    "title": "直接跳转第三方链接",
+    "slug": "https://www.yuque.com/yuque/help",
+    "depth": 1
+  },
+  {
+    "title": "链接到本身内容",
+    "slug": "https://www.yuque.com/yuque-helper/example-data/ovwvbo",
+    "depth": 1
+  },
+  {
+    "title": "文章内容互相引用",
+    "slug": "ovwvbo",
+    "depth": 1
+  },
+  {
+    "title": "节点1",
+    "slug": "ru2pi5",
+    "depth": 1
+  },
+  {
+    "title": "节点2",
+    "slug": "hky8bv",
+    "depth": 2
+  },
+  {
+    "title": "表格测试",
+    "slug": "rq8m3g",
+    "depth": 3
+  },
+  {
+    "title": "节点4",
+    "slug": "tit3gd",
+    "depth": 4
+  }
+]
