@@ -1,0 +1,5 @@
+{
+  "body_html": "<div data-type=\"p\"></div><pre data-syntax=\"javascript\"><code class=\"language-javascript\">function loadXMLDoc()\n{\n\tvar xmlhttp;\n\tif (window.XMLHttpRequest)\n\t{\n\t\t//  IE7+, Firefox, Chrome, Opera, Safari 浏览器执行代码\n\t\txmlhttp=new XMLHttpRequest();\n\t}\n\telse\n\t{\n\t\t// IE6, IE5 浏览器执行代码\n\t\txmlhttp=new ActiveXObject(&quot;Microsoft.XMLHTTP&quot;);\n\t}\n\txmlhttp.onreadystatechange=function()\n\t{\n\t\tif (xmlhttp.readyState==4 &amp;&amp; xmlhttp.status==200)\n\t\t{\n\t\t\tdocument.getElementById(&quot;myDiv&quot;).innerHTML=xmlhttp.responseText;\n\t\t}\n\t}\n\txmlhttp.open(&quot;GET&quot;,&quot;/try/ajax/ajax_info.txt&quot;,true);\n\txmlhttp.send();\n}\n</code></pre><div data-type=\"p\"></div><div data-type=\"p\"></div><pre data-syntax=\"python\"><code class=\"language-python\">def calc_sum(*args):\n    ax = 0\n    for n in args:\n        ax = ax + n\n    return ax\n</code></pre><div data-type=\"p\"></div>",
+  "slug": 1055795,
+  "title": "代码格式"
+}
