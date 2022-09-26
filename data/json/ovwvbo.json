@@ -1,5 +1,5 @@
 {
-  "body_html": "<div data-type=\"p\">超链接1: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.yuque.com/yuque-helper/example-data/hky8bv\" class=\"bi-link\">链接</a></div>",
+  "body_html": "<div><head></head><body><p>超链接1: <a href=\"#/hky8bv.html?anchor=\" target=\"_blank\">链接</a></p></body></div>",
   "slug": 1046289,
   "title": "文章内容互相引用"
 }

@@ -1,57 +1,109 @@
 [
   {
+    "type": "DOC",
     "title": "yuque2book - 超好用的文档工具",
-    "slug": "qp74zh",
-    "depth": 1
+    "level": 0,
+    "url": "qp74zh",
+    "id": 1046296,
+    "uuid": "an_W7l3Oz6Y-0_BY",
+    "depth": 1,
+    "slug": "qp74zh"
   },
   {
+    "type": "LINK",
     "title": "直接跳转第三方链接",
-    "slug": "https://www.yuque.com/yuque/help",
-    "depth": 1
+    "level": 0,
+    "url": "https://www.yuque.com/yuque/help",
+    "open_window": true,
+    "uuid": "3VibK81YMVZKasqR",
+    "depth": 1,
+    "slug": "https://www.yuque.com/yuque/help"
   },
   {
+    "type": "LINK",
     "title": "链接到本身内容",
-    "slug": "https://www.yuque.com/yuque-helper/example-data/ovwvbo",
-    "depth": 1
+    "level": 0,
+    "url": "https://www.yuque.com/yuque-helper/example-data/ovwvbo",
+    "open_window": true,
+    "uuid": "vZc8lkfwDtWFchnK",
+    "depth": 1,
+    "slug": "https://www.yuque.com/yuque-helper/example-data/ovwvbo"
   },
   {
+    "type": "DOC",
     "title": "数学公式",
-    "slug": "ru2pi5",
-    "depth": 1
+    "level": 0,
+    "url": "ru2pi5",
+    "id": 1046273,
+    "uuid": "qUz2cs9AarvpN7cA",
+    "depth": 1,
+    "slug": "ru2pi5"
   },
   {
+    "type": "DOC",
     "title": "附件测试",
-    "slug": "qgd4yv",
-    "depth": 1
+    "level": 0,
+    "url": "qgd4yv",
+    "id": 1046301,
+    "uuid": "dpVFiSNOUMvpPuj_",
+    "depth": 1,
+    "slug": "qgd4yv"
   },
   {
+    "type": "DOC",
     "title": "代码格式",
-    "slug": "sal620",
-    "depth": 1
+    "level": 0,
+    "url": "sal620",
+    "id": 1055795,
+    "uuid": "cUgIqpmBUOzbcr69",
+    "depth": 1,
+    "slug": "sal620"
   },
   {
+    "type": "TITLE",
     "title": "子节点",
-    "slug": "#",
-    "depth": 1
+    "level": 0,
+    "uuid": "kDU22HjO4uoEIYwC",
+    "depth": 1,
+    "slug": "#"
   },
   {
+    "type": "DOC",
     "title": "多图片",
-    "slug": "hky8bv",
-    "depth": 2
+    "level": 1,
+    "url": "hky8bv",
+    "id": 1046274,
+    "uuid": "ndZB6wkxF7tb1SFl",
+    "depth": 2,
+    "slug": "hky8bv"
   },
   {
+    "type": "DOC",
     "title": "文章内容互相引用",
-    "slug": "ovwvbo",
-    "depth": 2
+    "level": 1,
+    "url": "ovwvbo",
+    "id": 1046289,
+    "uuid": "njCEo7N2QgyQbZdZ",
+    "depth": 2,
+    "slug": "ovwvbo"
   },
   {
+    "type": "DOC",
     "title": "表格",
-    "slug": "rq8m3g",
-    "depth": 3
+    "level": 2,
+    "url": "rq8m3g",
+    "id": 1046276,
+    "uuid": "a496o94CGU3QCQQj",
+    "depth": 3,
+    "slug": "rq8m3g"
   },
   {
+    "type": "UNCREATED_DOC",
     "title": "节点4",
-    "slug": "tit3gd",
-    "depth": 4
+    "level": 3,
+    "url": "tit3gd",
+    "uuid": "XDCZBPTNdJIfpFF1",
+    "depth": 4,
+    "slug": "tit3gd"
   }
 ]
